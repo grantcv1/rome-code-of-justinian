@@ -67,3 +67,13 @@ Scott's translation has been criticized for its accuracy, so it shouldn't be use
 ## Font
 
 The stylesheet embeds Uncial Antiqua, licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** S. P. Scott, *The Civil Law* (1932). One source says the copyright expired without renewal, but this has not been checked against U.S. renewal records, so its status is unconfirmed.
+- **Images:** None.
+- **Fonts:** Uncial Antiqua, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
